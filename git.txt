@@ -1,0 +1,28 @@
+Initializing Git Locally
+    git init
+
+To Check the current Status of Git
+    git status
+
+Add files into current git workspace
+    git add <filename>
+
+Commit the changes that had done
+    git commit -m "some message on your commit"
+
+Check all the commits that are done previously
+    git log
+
+
+To check the difference between the file before the commit and after the commit
+    git diff <filename>
+
+To get the file data from the previous commit
+    git checkout <filename>
+
+The above steps are done locally 
+
+To Add this local setup into Remote
+    
+    git remote add origin "https:github.com/SaiMalleshB/<repository>.git (Execute once)
+    git push -u orgin main
