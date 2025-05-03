@@ -1,1 +1,5 @@
 Hi This is a model on git hub version control
+
+Chapter1 is relasing on 31 Feb 2027
+
+Have a Great Year ahead
